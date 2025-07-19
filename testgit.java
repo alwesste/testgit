@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class testgit {
     public static void main(String[] args) {
-        System.out.println("Hello, DEV! again with revert!");
+        System.out.println("Hello, dev1! again with revert!");
         
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your name: ");
